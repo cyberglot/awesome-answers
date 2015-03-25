@@ -64,3 +64,4 @@ Programming Languages
 Programming Languages Theory
 ---
  - [What makes a good programming language?](http://qr.ae/QHArY)
+ - [What is referential transparency?](http://stackoverflow.com/a/9859966/565303)
