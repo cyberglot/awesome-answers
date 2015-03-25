@@ -50,6 +50,7 @@ Programming Languages
 
 ###Haskell
 - [Getting started with Haskell](http://stackoverflow.com/a/1016986/1766338)
+- [Update Map in Haskell](http://codereview.stackexchange.com/a/57850)
 
 ###JavaScript
 - [How does “this” keyword work within a JavaScript object literal?](http://stackoverflow.com/a/134149/1766338)
