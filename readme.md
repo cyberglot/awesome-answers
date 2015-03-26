@@ -73,3 +73,4 @@ Programming Languages Theory
  - [Research and open challenges in Programming Language Theory](http://cstheory.stackexchange.com/a/17870/32199)
  - [Why are there so many programming languages?](http://cs.stackexchange.com/a/458/29071)
  - [Uses of algebraic structures in theoretical computer science](http://cstheory.stackexchange.com/a/10929/32199)
+ - [What is the difference between the statement "Everything is an object" when said about JavaScript and when said about Ruby?](http://qr.ae/Q973e)
