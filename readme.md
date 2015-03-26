@@ -33,6 +33,7 @@ Functional Programming
 - [What is a monad?](http://stackoverflow.com/a/194207/1766338)
 - [Learning Lambda Calculus](http://math.stackexchange.com/a/30667)
 - [Is Category Theory useful for learning functional programming?](http://cs.stackexchange.com/a/3256/29071)
+- [When do you choose functional programming over object oriented? What are the typical problem definitions where functional programming is a better choice?](http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming)
 
 Learning how to program
 ---
