@@ -72,3 +72,4 @@ Programming Languages Theory
  - [What is referential transparency?](http://stackoverflow.com/a/9859966/565303)
  - [Research and open challenges in Programming Language Theory](http://cstheory.stackexchange.com/a/17870/32199)
  - [Why are there so many programming languages?](http://cs.stackexchange.com/a/458/29071)
+ - [Uses of algebraic structures in theoretical computer science](http://cstheory.stackexchange.com/a/10929/32199)
