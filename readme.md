@@ -67,3 +67,4 @@ Programming Languages Theory
  - [What makes a good programming language?](http://qr.ae/QHArY)
  - [What is referential transparency?](http://stackoverflow.com/a/9859966/565303)
  - [Research and open challenges in Programming Language Theory](http://cstheory.stackexchange.com/a/17870/32199)
+ - [Why are there so many programming languages?](http://cstheory.stackexchange.com/a/17870/32199)
