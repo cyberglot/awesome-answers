@@ -65,6 +65,7 @@ Programming Languages
 - [Inheritence of variable properties](http://stackoverflow.com/a/15461601/1766338)
 - [How does JavaScript .prototype work?](http://stackoverflow.com/a/572996/1766338)
 - [JavaScript closures vs. anonymous functions](http://stackoverflow.com/a/12931785/1766338)
+- [What is a simple explanation of higher order functions and callbacks in JavaScript?](http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript)
 
 Programming Languages Theory
 ---
