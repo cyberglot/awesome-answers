@@ -20,7 +20,7 @@ Data Structures
 ---
 
  - [Are new data structures still being invented in computer science?](http://qr.ae/QHYgb)
-
+ - [Why is processing a sorted array faster than an unsorted array?](http://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-an-unsorted-array)
 
 Functional Programming
 ---
