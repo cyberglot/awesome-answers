@@ -14,6 +14,7 @@ TOC
  	- [Clojure](#clojure)
 	- [Haskell](#haskell)
  	- [JavaScript](#javascript)
+ 	- [PHP](#php)
  - [Programming Languages Thoery](#programming-languages-theory)
 
 Data Structures
@@ -68,6 +69,9 @@ Programming Languages
 - [JavaScript closures vs. anonymous functions](http://stackoverflow.com/a/12931785/1766338)
 - [What is a simple explanation of higher order functions and callbacks in JavaScript?](http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript)
 - [Why does JavaScript need a style guide?](https://github.com/airbnb/javascript/issues/102)
+
+###PHP
+ - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
 
 Programming Languages Theory
 ---
