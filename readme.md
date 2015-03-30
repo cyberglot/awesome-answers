@@ -16,6 +16,7 @@ TOC
  	- [JavaScript](#javascript)
  	- [PHP](#php)
  - [Programming Languages Thoery](#programming-languages-theory)
+ - [Version Control Systems](#version-control-systems)
 
 Data Structures
 ---
@@ -81,3 +82,7 @@ Programming Languages Theory
  - [Why are there so many programming languages?](http://cs.stackexchange.com/a/458/29071)
  - [Uses of algebraic structures in theoretical computer science](http://cstheory.stackexchange.com/a/10929/32199)
  - [What is the difference between the statement "Everything is an object" when said about JavaScript and when said about Ruby?](http://qr.ae/Q973e)
+
+Version Control Systems
+---
+- [How to update GitHub forked repository?](http://stackoverflow.com/a/7244456)
