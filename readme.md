@@ -74,6 +74,13 @@ Programming Languages
 ###PHP
  - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
 
+###Python
+ - [Why are banks like JP Morgan and Bank of America Merrill Lynch using Python to replace historic legacy systems built in Java/C++?](http://www.quora.com/Why-are-banks-like-JP-Morgan-and-Bank-of-America-Merrill-Lynch-using-Python-to-replace-historic-legacy-systems-built-in-Java-C++)
+ - [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://www.quora.com/What-are-killer-Python-tips-which-could-make-our-coder-lives-more-productive-easier-and-happier)
+ - [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/)
+ - [What are some of the best time-saving tips for Python?](http://www.quora.com/What-are-some-of-the-best-time-saving-tips-for-Python)
+ - [Why is Python a language of choice for data scientists?](http://www.quora.com/Why-is-Python-a-language-of-choice-for-data-scientists)
+
 Programming Languages Theory
 ---
  - [What makes a good programming language?](http://qr.ae/QHArY)
