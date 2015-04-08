@@ -15,6 +15,7 @@ TOC
 	- [Haskell](#haskell)
  	- [JavaScript](#javascript)
  	- [PHP](#php)
+ 	- [Python](#python)
  - [Programming Languages Thoery](#programming-languages-theory)
  - [Version Control Systems](#version-control-systems)
 
