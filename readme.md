@@ -96,3 +96,7 @@ Programming Languages Theory
 Version Control Systems
 ---
 - [How to update GitHub forked repository?](http://stackoverflow.com/a/7244456)
+
+Miscellaneous
+---
+- [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
