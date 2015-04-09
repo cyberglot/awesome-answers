@@ -18,6 +18,7 @@ TOC
  	- [Python](#python)
  - [Programming Languages Thoery](#programming-languages-theory)
  - [Version Control Systems](#version-control-systems)
+ - [Miscellaneous](#miscellaneous)
 
 Data Structures
 ---
