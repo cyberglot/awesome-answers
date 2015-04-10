@@ -38,6 +38,7 @@ Functional Programming
 - [Is Category Theory useful for learning functional programming?](http://cs.stackexchange.com/a/3256/29071)
 - [When do you choose functional programming over object oriented? What are the typical problem definitions where functional programming is a better choice?](http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming)
 - [Is there a software-engineering methodology for functional programming?](http://stackoverflow.com/a/4905458/1766338)
+- [Why don't monads violate the purely functional nature of languages?](http://qr.ae/dZWCp)
 
 Learning how to program
 ---
