@@ -6,6 +6,7 @@ Curated list of inspiring and thoughtful answers given at stackoverflow, quora, 
 TOC
 ---
 
+ - [Compilers](#compilers)
  - [Data Structures](#data-structures)
  - [Functional Programming](#functional-programming)
  - [Learning how to program](#learning-how-to-program)
