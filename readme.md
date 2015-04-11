@@ -20,6 +20,11 @@ TOC
  - [Version Control Systems](#version-control-systems)
  - [Miscellaneous](#miscellaneous)
 
+Compilers
+---
+
+- [Compilers: What is a supercompiler?](http://qr.ae/dVwDk)
+
 Data Structures
 ---
 
