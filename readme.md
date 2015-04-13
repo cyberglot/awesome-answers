@@ -69,6 +69,7 @@ Programming Languages
 ###Haskell
 - [Getting started with Haskell](http://stackoverflow.com/a/1016986/1766338)
 - [Update Map in Haskell](http://codereview.stackexchange.com/a/57850)
+- [I am building an investment engine for a startup, and my choice for developer wants to code it in Haskell. Is this the right choice? Do enough people know this so if he leaves I can continue without interruption?](http://qr.ae/d6vcE)
 
 ###JavaScript
 - [How does “this” keyword work within a JavaScript object literal?](http://stackoverflow.com/a/134149/1766338)
