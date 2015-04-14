@@ -54,6 +54,7 @@ Learning how to program
  - [What should every programmer know about security?](http://stackoverflow.com/q/2794016)
  - [What are some basic concepts that every engineering student should know?](http://qr.ae/k6Ekm)
  - [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/q/46716)
+ - [How does one become a great coder?](http://qr.ae/dQTYn)
 
 Math
 ---
