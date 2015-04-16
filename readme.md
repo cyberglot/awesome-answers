@@ -13,7 +13,7 @@ TOC
  - [Math](#math)
  - Programming Languages
  	- [Clojure](#clojure)
- 	- [C/C++][#c]
+ 	- [C/C++][#cc]
 	- [Haskell](#haskell)
  	- [JavaScript](#javascript)
  	- [PHP](#php)
