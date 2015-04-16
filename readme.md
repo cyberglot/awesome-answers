@@ -13,6 +13,7 @@ TOC
  - [Math](#math)
  - Programming Languages
  	- [Clojure](#clojure)
+ 	- [C++][#c++]
 	- [Haskell](#haskell)
  	- [JavaScript](#javascript)
  	- [PHP](#php)
@@ -66,6 +67,8 @@ Programming Languages
 
 ###Clojure
 - [Common programming mistakes for Clojure developers to avoid](http://stackoverflow.com/a/2021343/1766338)
+
+###C++
 
 ###Haskell
 - [Getting started with Haskell](http://stackoverflow.com/a/1016986/1766338)
