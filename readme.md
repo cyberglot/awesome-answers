@@ -69,6 +69,7 @@ Programming Languages
 - [Common programming mistakes for Clojure developers to avoid](http://stackoverflow.com/a/2021343/1766338)
 
 ###C/C++
+- [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282/1766338) 
 
 ###Haskell
 - [Getting started with Haskell](http://stackoverflow.com/a/1016986/1766338)
