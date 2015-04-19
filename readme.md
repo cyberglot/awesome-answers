@@ -26,6 +26,7 @@ TOC
 Algorithms
 ---
 
+ - [Algorithm: Is there a good way of solving a comparison?](http://stackoverflow.com/a/2296538/1766338)
 
 Compilers
 ---
