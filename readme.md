@@ -6,6 +6,7 @@ Curated list of inspiring and thoughtful answers given at stackoverflow, quora, 
 TOC
 ---
 
+ - [Algorithms](#algorithms)
  - [Compilers](#compilers)
  - [Data Structures](#data-structures)
  - [Functional Programming](#functional-programming)
@@ -21,6 +22,10 @@ TOC
  - [Programming Languages Thoery](#programming-languages-theory)
  - [Version Control Systems](#version-control-systems)
  - [Miscellaneous](#miscellaneous)
+
+Algorithms
+---
+
 
 Compilers
 ---
