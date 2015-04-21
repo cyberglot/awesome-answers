@@ -54,6 +54,7 @@ Functional Programming
 - [Is there a software-engineering methodology for functional programming?](http://stackoverflow.com/a/4905458/1766338)
 - [Why don't monads violate the purely functional nature of languages?](http://qr.ae/dZWCp)
 - [What is a sum type?](http://qr.ae/dZ97q)
+- [Why do some people not like OOP and prefer functional programming?](http://qr.ae/L5HJB)
 
 Learning how to program
 ---
