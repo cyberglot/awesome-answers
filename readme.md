@@ -123,3 +123,4 @@ Version Control Systems
 Miscellaneous
 ---
 - [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
+- [How does a visually impaired computer programmer do programming?](http://qr.ae/L5FfY)
