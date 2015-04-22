@@ -125,3 +125,4 @@ Miscellaneous
 ---
 - [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
 - [How does a visually impaired computer programmer do programming?](http://qr.ae/L5FfY)
+- [What are the best examples of software bugs that became features (a.k.a. misbugs)?](http://qr.ae/LO834)
