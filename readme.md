@@ -27,7 +27,8 @@ Algorithms
 ---
 
  - [Algorithm: Is there a good way of solving a comparison?](http://stackoverflow.com/a/2296538/1766338)
- - How do you identify edge cases on algorithms? [(1)](http://qr.ae/Loah1)[(2)](http://programmers.stackexchange.com/a/72779)
+ - How do you identify edge cases on algorithms? [[1]](http://qr.ae/Loah1) [[2]](http://programmers.stackexchange.com/a/72779)
+ - [What all basic data structures and algorithms should one learn before starting competitive programming?](http://qr.ae/LefWv)
 
 Compilers
 ---
