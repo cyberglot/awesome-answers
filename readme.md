@@ -64,6 +64,7 @@ Learning how to program
  - [What are some basic concepts that every engineering student should know?](http://qr.ae/k6Ekm)
  - [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/q/46716)
  - [How does one become a great coder?](http://qr.ae/dQTYn)
+ - [We all hear about how simple programming can be, but what are some truly complex concepts that even experienced programmers struggle with?](http://qr.ae/LefKC)
 
 Math
 ---
