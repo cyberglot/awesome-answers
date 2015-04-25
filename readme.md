@@ -108,6 +108,7 @@ Programming Languages
  - [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/)
  - [What are some of the best time-saving tips for Python?](http://www.quora.com/What-are-some-of-the-best-time-saving-tips-for-Python)
  - [Why is Python a language of choice for data scientists?](http://www.quora.com/Why-is-Python-a-language-of-choice-for-data-scientists)
+ - [How can I tell if a string repeats itself in Python?](http://stackoverflow.com/a/29489919)
 
 Programming Languages Theory
 ---
