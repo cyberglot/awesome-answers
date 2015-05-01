@@ -99,6 +99,7 @@ Programming Languages
 - [JavaScript closures vs. anonymous functions](http://stackoverflow.com/a/12931785/1766338)
 - [What is a simple explanation of higher order functions and callbacks in JavaScript?](http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript)
 - [Why does JavaScript need a style guide?](https://github.com/airbnb/javascript/issues/102)
+- [Avoid Memory Leak / Usage Javascript](http://stackoverflow.com/a/13191289)
 
 ###PHP
  - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
