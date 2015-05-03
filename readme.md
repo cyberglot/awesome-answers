@@ -57,6 +57,7 @@ Functional Programming
 - [Why don't monads violate the purely functional nature of languages?](http://qr.ae/dZWCp)
 - [What is a sum type?](http://qr.ae/dZ97q)
 - [Why do some people not like OOP and prefer functional programming?](http://qr.ae/L5HJB)
+- [What do Lisp/Haskell programmers think about Prolog?](http://qr.ae/0HB14)
 
 Learning how to program
 ---
