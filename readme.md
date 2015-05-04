@@ -113,6 +113,9 @@ Programming Languages
  - [Why is Python a language of choice for data scientists?](http://www.quora.com/Why-is-Python-a-language-of-choice-for-data-scientists)
  - [How can I tell if a string repeats itself in Python?](http://stackoverflow.com/a/29489919)
 
+###Ruby
+ - [Ruby craziness: Class vs Object?](http://stackoverflow.com/a/4969822/1766338)
+
 Programming Languages Theory
 ---
  - [What makes a good programming language?](http://qr.ae/QHArY)
