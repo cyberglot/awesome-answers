@@ -113,6 +113,7 @@ Programming Languages
  - [What are some of the best time-saving tips for Python?](http://www.quora.com/What-are-some-of-the-best-time-saving-tips-for-Python)
  - [Why is Python a language of choice for data scientists?](http://www.quora.com/Why-is-Python-a-language-of-choice-for-data-scientists)
  - [How can I tell if a string repeats itself in Python?](http://stackoverflow.com/a/29489919)
+ - [Python Hidden Features](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 
 ###Ruby
  - [Ruby craziness: Class vs Object?](http://stackoverflow.com/a/4969822/1766338)
