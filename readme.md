@@ -102,6 +102,7 @@ Programming Languages
 - [What is a simple explanation of higher order functions and callbacks in JavaScript?](http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript)
 - [Why does JavaScript need a style guide?](https://github.com/airbnb/javascript/issues/102)
 - [Avoid Memory Leak / Usage Javascript](http://stackoverflow.com/a/13191289)
+- [Perform debounce in React.js](http://stackoverflow.com/a/28046731)
 
 ###PHP
  - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
