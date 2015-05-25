@@ -103,6 +103,7 @@ Programming Languages
 - [Why does JavaScript need a style guide?](https://github.com/airbnb/javascript/issues/102)
 - [Avoid Memory Leak / Usage Javascript](http://stackoverflow.com/a/13191289)
 - [Perform debounce in React.js](http://stackoverflow.com/a/28046731)
+- [Comparing two arrays in Javascript](http://stackoverflow.com/a/14853974/1766338)
 
 ###PHP
  - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
