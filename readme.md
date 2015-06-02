@@ -20,7 +20,7 @@ TOC
  	- [PHP](#php)
  	- [Python](#python)
  	- [Ruby](#ruby)
- - [Programming Languages Thoery](#programming-languages-theory)
+ - [Programming Languages Theory](#programming-languages-theory)
  - [Version Control Systems](#version-control-systems)
  - [Miscellaneous](#miscellaneous)
 
