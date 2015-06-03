@@ -59,6 +59,7 @@ Functional Programming
 - [What is a sum type?](http://qr.ae/dZ97q)
 - [Why do some people not like OOP and prefer functional programming?](http://qr.ae/L5HJB)
 - [What do Lisp/Haskell programmers think about Prolog?](http://qr.ae/0HB14)
+- [What is (functional) reactive programming?](http://stackoverflow.com/a/1030631/1766338)
 
 Learning how to program
 ---
