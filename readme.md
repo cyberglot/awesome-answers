@@ -31,6 +31,8 @@ Algorithms
  - How do you identify edge cases on algorithms? [[1]](http://qr.ae/Loah1) [[2]](http://programmers.stackexchange.com/a/72779)
  - [What all basic data structures and algorithms should one learn before starting competitive programming?](http://qr.ae/LefWv)
  - [How can I be a guru in algorithms?](http://qr.ae/07Px4)
+ - [Sorting 1 million 8 digit numbers in 1MB of RAM](http://stackoverflow.com/a/13067807)
+ - [Which hashing algorithm is best for uniqueness and speed?](http://programmers.stackexchange.com/a/145633)
 
 Compilers
 ---
@@ -42,10 +44,13 @@ Data Structures
 
  - [Are new data structures still being invented in computer science?](http://qr.ae/QHYgb)
  - [Why is processing a sorted array faster than an unsorted array?](http://stackoverflow.com/a/11227902)
+ - [What are some lesser known but useful data structures?](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
+ - [What are the underlying data structures used for Redis?](http://stackoverflow.com/a/9626334)
 
 Functional Programming
 ---
 
+- [What is a good beginning text on functional programming?](http://stackoverflow.com/a/23193)
 - [In what ways are the major modern functional languages different from each other?](http://qr.ae/QHK6v)
 - [What's new in purely functional data structures since Okasaki?](http://cstheory.stackexchange.com/a/1550/32199)
 - [Can an operating system be written in a functional language?](http://qr.ae/QHAOS)
@@ -107,6 +112,7 @@ Programming Languages
 - [Avoid Memory Leak / Usage Javascript](http://stackoverflow.com/a/13191289)
 - [Perform debounce in React.js](http://stackoverflow.com/a/28046731)
 - [Comparing two arrays in Javascript](http://stackoverflow.com/a/14853974/1766338)
+- [How does bellard.org/jslinux work?](http://qr.ae/7AymJb)
 
 ###PHP
  - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
@@ -144,3 +150,4 @@ Miscellaneous
 - [How does a visually impaired computer programmer do programming?](http://qr.ae/L5FfY)
 - [What are the best examples of software bugs that became features (a.k.a. misbugs)?](http://qr.ae/LO834)
 - [What do the top 1% of software engineers do that the other 99% do not?](http://qr.ae/0ILWY)
+- [Why is processing a sorted array faster than an unsorted array?](http://stackoverflow.com/a/11227902)
