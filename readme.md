@@ -142,6 +142,7 @@ Programming Languages Theory
  - [What is the difference between the statement "Everything is an object" when said about JavaScript and when said about Ruby?](http://qr.ae/Q973e)
  - [Which programming concept do people usually find harder: loops or recursion?](http://qr.ae/QjpjD)
  - [If you would create a new programming language, what would it look like?](http://qr.ae/fgPsq)
+ - [What is fascinating about dynamically-typed programming languages?](http://qr.ae/7PKzmF)
 
 Version Control Systems
 ---
