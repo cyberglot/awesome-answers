@@ -114,6 +114,7 @@ Programming Languages
 - [Perform debounce in React.js](http://stackoverflow.com/a/28046731)
 - [Comparing two arrays in Javascript](http://stackoverflow.com/a/14853974/1766338)
 - [How does bellard.org/jslinux work?](http://qr.ae/7AymJb)
+- [Will WebAssembly make Javascript skills more or less valuable in the future?](http://qr.ae/7PKALb)
 
 ###PHP
  - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
