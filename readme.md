@@ -88,6 +88,7 @@ Programming Languages
 ###Clojure
 - [Common programming mistakes for Clojure developers to avoid](http://stackoverflow.com/a/2021343/1766338)
 - [Why would someone learn Clojure?](http://qr.ae/7PKRiN)
+- [Why are Clojure's `let` and `for` both monads?](http://stackoverflow.com/a/21763329/1766338)
 
 ###C/C++
 - [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282/1766338) 
