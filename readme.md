@@ -67,6 +67,7 @@ Functional Programming
 - [What is (functional) reactive programming?](http://stackoverflow.com/a/1030631/1766338)
 - [What are some myths about functional programming and functional programming languages?](http://qr.ae/RsOnL9)
 - [How can monads in computer science be viewed as special cases of monads in category theory?](http://qr.ae/RsOAjx)
+- [Specification for a Functional Reactive Programming language](http://stackoverflow.com/a/5878525/1766338)
 
 Learning how to program
 ---
