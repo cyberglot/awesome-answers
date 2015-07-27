@@ -118,6 +118,7 @@ Programming Languages
 - [How does bellard.org/jslinux work?](http://qr.ae/7AymJb)
 - [Will WebAssembly make Javascript skills more or less valuable in the future?](http://qr.ae/7PKALb)
 - [Why does ++[[]][+[]]+[+[]] return the string “10”?](http://stackoverflow.com/a/7202287/1766338)
+- [Are functions like map(), reduce() and filter() already optimized for traversing array?](http://qr.ae/Rsg6I0)
 
 ###PHP
  - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
