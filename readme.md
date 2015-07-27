@@ -100,6 +100,7 @@ Programming Languages
 - [Update Map in Haskell](http://codereview.stackexchange.com/a/57850)
 - [I am building an investment engine for a startup, and my choice for developer wants to code it in Haskell. Is this the right choice? Do enough people know this so if he leaves I can continue without interruption?](http://qr.ae/d6vcE)
 - [What are some crazy things one can do with monads in Haskell?](http://qr.ae/d6rhm)
+- [Why do some programmers have difficulty in learning Haskell?](http://qr.ae/Rsgfkx)
 
 ###JavaScript
 - [How does “this” keyword work within a JavaScript object literal?](http://stackoverflow.com/a/134149/1766338)
