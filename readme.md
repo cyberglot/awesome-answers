@@ -10,7 +10,7 @@ TOC
  - [Compilers](#compilers)
  - [Data Structures](#data-structures)
  - [Functional Programming](#functional-programming)
- - [Learning how to program](#learning-how-to-program)
+ - [Learning to program](#learning-how-to-program)
  - [Math](#math)
  - Programming Languages
  	- [Clojure](#clojure)
@@ -69,7 +69,7 @@ Functional Programming
 - [How can monads in computer science be viewed as special cases of monads in category theory?](http://qr.ae/RsOAjx)
 - [Specification for a Functional Reactive Programming language](http://stackoverflow.com/a/5878525/1766338)
 
-Learning how to program
+Learning to program
 ---
 
  - [How can I become a world-class coder in under three years?](http://qr.ae/E8UPT)
@@ -105,6 +105,7 @@ Programming Languages
 - [What are some crazy things one can do with monads in Haskell?](http://qr.ae/d6rhm)
 - [Why do some programmers have difficulty in learning Haskell?](http://qr.ae/Rsgfkx)
 - [foldl is tail recursive, so how come foldr runs faster than foldl?](http://stackoverflow.com/a/3429693)
+- [Does Haskell have tail-recursive optimization?](http://stackoverflow.com/a/13052612)
 
 ###JavaScript
 - [How does “this” keyword work within a JavaScript object literal?](http://stackoverflow.com/a/134149/1766338)
