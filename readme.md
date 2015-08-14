@@ -116,7 +116,6 @@ Programming Languages
 - [Inheritence of variable properties](http://stackoverflow.com/a/15461601/1766338)
 - [How does JavaScript .prototype work?](http://stackoverflow.com/a/572996/1766338)
 - [JavaScript closures vs. anonymous functions](http://stackoverflow.com/a/12931785/1766338)
-- [What is a simple explanation of higher order functions and callbacks in JavaScript?](http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript)
 - [Why does JavaScript need a style guide?](https://github.com/airbnb/javascript/issues/102)
 - [Avoid Memory Leak / Usage Javascript](http://stackoverflow.com/a/13191289)
 - [Perform debounce in React.js](http://stackoverflow.com/a/28046731)
@@ -131,11 +130,9 @@ Programming Languages
  - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
 
 ###Python
- - [Why are banks like JP Morgan and Bank of America Merrill Lynch using Python to replace historic legacy systems built in Java/C++?](http://www.quora.com/Why-are-banks-like-JP-Morgan-and-Bank-of-America-Merrill-Lynch-using-Python-to-replace-historic-legacy-systems-built-in-Java-C++)
- - [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://www.quora.com/What-are-killer-Python-tips-which-could-make-our-coder-lives-more-productive-easier-and-happier)
- - [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/)
- - [What are some of the best time-saving tips for Python?](http://www.quora.com/What-are-some-of-the-best-time-saving-tips-for-Python)
- - [Why is Python a language of choice for data scientists?](http://www.quora.com/Why-is-Python-a-language-of-choice-for-data-scientists)
+ - [Why are banks like JP Morgan and Bank of America Merrill Lynch using Python to replace historic legacy systems built in Java/C++?](http://qr.ae/RCkmhJ)
+ - [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://qr.ae/RCkmKa)
+ - [What are some of the best time-saving tips for Python?](http://qr.ae/RCkmoh)
  - [How can I tell if a string repeats itself in Python?](http://stackoverflow.com/a/29489919)
  - [Python Hidden Features](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 
