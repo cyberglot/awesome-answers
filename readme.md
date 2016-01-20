@@ -164,6 +164,7 @@ Miscellaneous
 - [What do the top 1% of software engineers do that the other 99% do not?](http://qr.ae/0ILWY)
 - [Why is processing a sorted array faster than an unsorted array?](http://stackoverflow.com/a/11227902)
 - [What are the current fads in computer science, IT and software engineering?](http://qr.ae/7PyLkC)
+- [What is your most productive shortcut with Vim?](http://stackoverflow.com/a/1220118)
 
 ## License
 
