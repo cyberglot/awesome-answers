@@ -98,6 +98,7 @@ Programming Languages
 - [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282/1766338) 
 - [Can a local variable's memory be accessed outside its scope?](http://stackoverflow.com/a/6445794/1104488)
 - [Why do many C functions have an extra F?](http://qr.ae/7vBEnF)
+- [What are the valid signatures for C's main() function? ](http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function)
 
 ###Haskell
 - [Getting started with Haskell](http://stackoverflow.com/a/1016986/1766338)
