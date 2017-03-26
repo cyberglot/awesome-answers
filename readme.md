@@ -89,18 +89,18 @@ Math
 Programming Languages
 ---
 
-###Clojure
+### Clojure
 - [Common programming mistakes for Clojure developers to avoid](http://stackoverflow.com/a/2021343/1766338)
 - [Why would someone learn Clojure?](http://qr.ae/7PKRiN)
 - [Why are Clojure's `let` and `for` both monads?](http://stackoverflow.com/a/21763329/1766338)
 
-###C/C++
+### C/C++
 - [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282/1766338) 
 - [Can a local variable's memory be accessed outside its scope?](http://stackoverflow.com/a/6445794/1104488)
 - [Why do many C functions have an extra F?](http://qr.ae/7vBEnF)
 - [What are the valid signatures for C's main() function? ](http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function)
 
-###Haskell
+### Haskell
 - [Getting started with Haskell](http://stackoverflow.com/a/1016986/1766338)
 - [Update Map in Haskell](http://codereview.stackexchange.com/a/57850)
 - [I am building an investment engine for a startup, and my choice for developer wants to code it in Haskell. Is this the right choice? Do enough people know this so if he leaves I can continue without interruption?](http://qr.ae/d6vcE)
@@ -109,7 +109,7 @@ Programming Languages
 - [foldl is tail recursive, so how come foldr runs faster than foldl?](http://stackoverflow.com/a/3429693)
 - [Does Haskell have tail-recursive optimization?](http://stackoverflow.com/a/13052612)
 
-###JavaScript
+### JavaScript
 - [How does “this” keyword work within a JavaScript object literal?](http://stackoverflow.com/a/134149/1766338)
 - [Use of .apply() with 'new' operator. Is this possible?](http://stackoverflow.com/a/1608546/1766338)
 - [Is JavaScript's “new” keyword considered harmful?](http://stackoverflow.com/a/383503/1766338)
@@ -128,17 +128,17 @@ Programming Languages
 - [Are functions like map(), reduce() and filter() already optimized for traversing array?](http://qr.ae/Rsg6I0)
 - [What are the actual uses of ES6 WeakMap?](http://stackoverflow.com/a/29416340)
 
-###PHP
+### PHP
  - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
 
-###Python
+### Python
  - [Why are banks like JP Morgan and Bank of America Merrill Lynch using Python to replace historic legacy systems built in Java/C++?](http://qr.ae/RCkmhJ)
  - [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://qr.ae/RCkmKa)
  - [What are some of the best time-saving tips for Python?](http://qr.ae/RCkmoh)
  - [How can I tell if a string repeats itself in Python?](http://stackoverflow.com/a/29489919)
  - [Python Hidden Features](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 
-###Ruby
+### Ruby
  - [Ruby craziness: Class vs Object?](http://stackoverflow.com/a/4969822/1766338)
 
 Programming Languages Theory
