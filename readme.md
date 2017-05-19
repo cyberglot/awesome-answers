@@ -85,6 +85,7 @@ Math
 
  - [Visually stunning math concepts which are easy to explain](http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
  - [If floating-point can't represent 0.1, how does parseFloat (".1") equal .1?](http://qr.ae/7PKwoT)
+ - [Why Do We Learn Math?](http://betterexplained.com/articles/why-do-we-learn-math/)
 
 Programming Languages
 ---
